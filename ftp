@@ -164,7 +164,7 @@
             <li>우측 로컬 경로로 파일이 즉시 다운로드되며, 하단 상태 바에서 전송 속도, 용량, 진행률을 모니터링할 수 있습니다.</li>
         </ul>
     </div>
-
+<li>&nbsp;<a href="https://www.wftpserver.com/download/FTPRush.zip">Download (포터블)</a></li>
     <div class="tip">
         <strong>💡 Tip:</strong> FTP Rush는 멀티 스레드 전송을 지원하여 대용량 파일도 끊김 없이 안정적으로 고속 전송이 가능합니다. 
     </div>
